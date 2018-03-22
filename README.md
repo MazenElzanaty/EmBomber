@@ -25,5 +25,5 @@ Now you can run EmBomber
 ``` bash
 python EmBomber.py
 ```
-##Note
+## Note
 You need to enable less secure apps on Gmail and Yahoo
