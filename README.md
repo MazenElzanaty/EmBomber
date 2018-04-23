@@ -17,7 +17,7 @@ First, clone it by entering the following command in the terminal
 ``` bash
 git clone https://github.com/MazenElzanaty/EmBomber.git
 ```
-Now naviagte to EmBomber directory
+Now navigate to EmBomber directory
 ``` bash
 cd EmBomber
 ```
